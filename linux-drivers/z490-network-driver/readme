@@ -1,0 +1,5 @@
+extract driver
+
+sudo apt-get install cmake gcc -y
+
+sudo ./autorun.sh
